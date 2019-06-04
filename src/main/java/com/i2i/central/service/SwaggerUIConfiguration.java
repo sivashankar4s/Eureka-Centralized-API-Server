@@ -16,7 +16,7 @@ import springfox.documentation.swagger.web.SwaggerResourcesProvider;
 
 /**
  * 
- * @author satish sharma
+ * @author Sivashankar.S
  * <pre>
  *  Swagger Ui configurations. Configure bean of the {@link SwaggerResourcesProvider} to
  *   read data from in-memory contex 	

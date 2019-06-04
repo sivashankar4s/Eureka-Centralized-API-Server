@@ -25,7 +25,7 @@ import com.netflix.discovery.EurekaClient;
 
 /**
  * 
- * @author satish sharma
+ * @author Sivashankar.S
  * <pre>
  *   Periodically poll the service instaces and update the in memory store as key value pair	
  * </pre>

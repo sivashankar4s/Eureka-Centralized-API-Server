@@ -12,7 +12,7 @@ import springfox.documentation.swagger.web.SwaggerResource;
 
 /**
  * 
- * @author satish sharma
+ * @author Sivashankar.S
  * <pre>
  *   	In-Memory store to hold API-Definition JSON
  * </pre>
